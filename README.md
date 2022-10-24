@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aidan-Pugh
-- 👀 I’m interested in phylogenetics
-- 🌱 I’m currently learning bioinformatics
+- 🧑🏼‍🔬 I’m interested in phylogenetics
+- 🧬 I’m currently learning bioinformatics
 
 <!---
 Aidan-Pugh/Aidan-Pugh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
